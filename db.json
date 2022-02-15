@@ -1,0 +1,437 @@
+{
+  "devs": [
+    {
+      "Id": 1,
+      "Name": "Anamul Haque",
+      "Skill": "JavaScript",
+      "Loc": "Savar , Dhaka",
+      "Gender": "Male",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi quibusdam quas nam amet architecto",
+      "img": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "Id": 2,
+      "Name": "Rakib Adnan",
+      "Skill": "MERN Stack",
+      "Loc": "Bogura",
+      "Gender": "Male",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi quibusdam quas nam amet architecto",
+      "img": "https://images.pexels.com/photos/837358/pexels-photo-837358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "Id": 3,
+      "Name": "Mamun Islam",
+      "Skill": "MERN Stack",
+      "Loc": "Dhaka",
+      "Gender": "Male",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi quibusdam quas nam amet architecto",
+      "img": "https://images.pexels.com/photos/845457/pexels-photo-845457.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "Id": 4,
+      "Name": "Arif Hassan",
+      "Skill": "GoLang",
+      "Loc": "Dinajpur",
+      "Gender": "Male",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi quibusdam quas nam amet architecto",
+      "img": "https://images.pexels.com/photos/7674850/pexels-photo-7674850.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "Id": 5,
+      "Name": "Rehena khatun",
+      "Skill": "Java",
+      "Loc": "Kustia",
+      "Gender": "Female",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi quibusdam quas nam amet architecto",
+      "img": "https://images.pexels.com/photos/7709128/pexels-photo-7709128.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "Id": 6,
+      "Name": "Ripa khatun",
+      "Skill": "Node.js",
+      "Loc": "Kustia",
+      "Gender": "Female",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi quibusdam quas nam amet architecto",
+      "img": "https://images.pexels.com/photos/7709130/pexels-photo-7709130.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "Id": 7,
+      "Name": "Kohinur Islam",
+      "Skill": "Node.js",
+      "Loc": "Kustia",
+      "Gender": "Female",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi quibusdam quas nam amet architecto",
+      "img": "https://images.pexels.com/photos/7674858/pexels-photo-7674858.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "Id": 8,
+      "Name": "Abu Raihan",
+      "Skill": "Django",
+      "Loc": "Sherpur",
+      "Gender": "Male",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi quibusdam quas nam amet architecto",
+      "img": "https://images.pexels.com/photos/819530/pexels-photo-819530.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "Id": 9,
+      "Name": "Abu Sufian",
+      "Skill": "WordPress",
+      "Loc": "Barishal",
+      "Gender": "Male",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi quibusdam quas nam amet architecto",
+      "img": "https://images.pexels.com/photos/8911820/pexels-photo-8911820.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "Id": 10,
+      "Name": "Humayun ahmed",
+      "Skill": "Python",
+      "Loc": "Barishal",
+      "Gender": "Male",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi quibusdam quas nam amet architecto",
+      "img": "https://images.pexels.com/photos/859265/pexels-photo-859265.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7;",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 10,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores).",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    }
+  ],
+  "categorys": [
+    {
+      "id": 1,
+      "category": "men's clothing"
+    },
+    {
+      "id": 2,
+      "category": "men's clothing"
+    },
+    {
+      "id": 3,
+      "category": "men's clothing"
+    },
+    {
+      "id": 4,
+      "category": "men's clothing"
+    },
+    {
+      "id": 5,
+      "category": "jewelery"
+    },
+    {
+      "id": 6,
+      "category": "jewelery"
+    },
+    {
+      "id": 7,
+      "category": "jewelery"
+    },
+    {
+      "id": 8,
+      "category": "jewelery"
+    },
+    {
+      "id": 9,
+      "category": "electronics"
+    },
+    {
+      "id": 10,
+      "category": "electronics"
+    }
+  ],
+  "student": [
+    {
+      "id": 12,
+      "Name": "Anamul Haque",
+      "Loc": "Savar, Dhaka",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/3760539/pexels-photo-3760539.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 1,
+      "Name": "Rakib Adnan",
+      "Loc": "Bogura",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/8443969/pexels-photo-8443969.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 2,
+      "Name": "Priyaka das",
+      "Loc": "Magura",
+      "Gender": "Female",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/3014853/pexels-photo-3014853.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 3,
+      "Name": "Uttam Kimar",
+      "Loc": "Natore",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/3217111/pexels-photo-3217111.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 4,
+      "Name": "Mamun Islam",
+      "Loc": "Rangpur",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/3480329/pexels-photo-3480329.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 5,
+      "Name": "Abu sayeed",
+      "Loc": "Cumilla",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/3775582/pexels-photo-3775582.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 6,
+      "Name": "Yameen Hossain",
+      "Loc": "Bogura",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/3724372/pexels-photo-3724372.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 7,
+      "Name": "Soniya Bariki",
+      "Loc": "Netrokona",
+      "Gender": "Female",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/7222852/pexels-photo-7222852.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 8,
+      "Name": "Ratna Akter",
+      "Loc": "Dhunot",
+      "Gender": "Female",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/4522534/pexels-photo-4522534.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 9,
+      "Name": "Sayeem",
+      "Loc": "Kuri-Gram",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/8584505/pexels-photo-8584505.png?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 10,
+      "Name": "Humayra",
+      "Loc": "Rajshahi",
+      "Gender": "Female",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/4347368/pexels-photo-4347368.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    }
+  ]
+}
